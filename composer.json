@@ -1,8 +1,8 @@
 {
-    "name": "phenx/php-font-lib",
+    "name": "dvigne/php-font-lib",
     "type": "library",
-    "description": "A library to read, parse, export and make subsets of different types of font files.",
-    "homepage": "https://github.com/PhenX/php-font-lib",
+    "description": "A library to read, parse, export and make subsets of different types of font files. Forked from Piskvor/php-font-lib.",
+    "homepage": "https://github.com/dvigne/php-font-lib",
     "license": "LGPL-3.0",
     "authors": [
         {
